@@ -1,0 +1,64 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"id\",\"selector\":\"Email\"}\n  (Session info: chrome=84.0.4147.105)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.18362 x86_64)",
+      "children" : [ {
+        "name" : "test_add_customer",
+        "uid" : "e419f0b0537f2cc5",
+        "parentUid" : "ecbaa1a314be3def2a5cac0684084b8b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1597047690820,
+          "stop" : 1597047733845,
+          "duration" : 43025
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ecbaa1a314be3def2a5cac0684084b8b"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"customers-grid\"]/tbody/tr[1]/td[5]\"}\n  (Session info: chrome=84.0.4147.105)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.18362 x86_64)",
+      "children" : [ {
+        "name" : "test03_valid_company",
+        "uid" : "a05d8b9d336bb240",
+        "parentUid" : "0763995432f7b0a98798ea3e7383bf4c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1597048039376,
+          "stop" : 1597048077935,
+          "duration" : 38559
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0763995432f7b0a98798ea3e7383bf4c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '' == 'No data available in table'\n  - No data available in table",
+      "children" : [ {
+        "name" : "test04_invalid_company",
+        "uid" : "e1419f6a73e10763",
+        "parentUid" : "3def3340b4cb1a1bcbcec248bc4c05fb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1597048078494,
+          "stop" : 1597048114262,
+          "duration" : 35768
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3def3340b4cb1a1bcbcec248bc4c05fb"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

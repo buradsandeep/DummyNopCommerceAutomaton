@@ -1,0 +1,309 @@
+{
+  "4bda8e364857f0bc38f84e6e49cd900a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68ce9d122f56f7a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597048167423,
+        "stop" : 1597048172573,
+        "duration" : 5150
+      }
+    } ]
+  },
+  "7fb5454aab6bcaf3bd62af48eb787287" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8eff1e13aee1b66f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597047937334,
+        "stop" : 1597047998893,
+        "duration" : 61559
+      }
+    } ]
+  },
+  "f09efa44b3194425001a711eb8b267fb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1419f6a73e10763",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '' == 'No data available in table'\n  - No data available in table",
+      "time" : {
+        "start" : 1597048078494,
+        "stop" : 1597048114262,
+        "duration" : 35768
+      }
+    } ]
+  },
+  "c6a1f5ab2b704e9abcf3c4d886ef3994" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "724db90827437523",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597047852796,
+        "stop" : 1597047869042,
+        "duration" : 16246
+      }
+    } ]
+  },
+  "b577751127d25627957e0336d84599cf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a18413dea4c457f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597048178533,
+        "stop" : 1597048185004,
+        "duration" : 6471
+      }
+    } ]
+  },
+  "56e65e2303265c00f7fe340322d66ca8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "beffa194e1cb33c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597048141703,
+        "stop" : 1597048167416,
+        "duration" : 25713
+      }
+    } ]
+  },
+  "f1948772bb2bb9d3d8b3bfd8c61d42be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56617999b47a79da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597048185011,
+        "stop" : 1597048188032,
+        "duration" : 3021
+      }
+    } ]
+  },
+  "2d6a29744bc13f415a4710d6058e9c22" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a05d8b9d336bb240",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"customers-grid\"]/tbody/tr[1]/td[5]\"}\n  (Session info: chrome=84.0.4147.105)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.18362 x86_64)",
+      "time" : {
+        "start" : 1597048039376,
+        "stop" : 1597048077935,
+        "duration" : 38559
+      }
+    } ]
+  },
+  "d4dba02ed10404ba044411dd306df89c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a2e168aca658933",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597047809481,
+        "stop" : 1597047814066,
+        "duration" : 4585
+      }
+    } ]
+  },
+  "8b3795b54222c62e63775958c272993f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e419f0b0537f2cc5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"id\",\"selector\":\"Email\"}\n  (Session info: chrome=84.0.4147.105)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.18362 x86_64)",
+      "time" : {
+        "start" : 1597047690820,
+        "stop" : 1597047733845,
+        "duration" : 43025
+      }
+    } ]
+  },
+  "08f93e730adb58df7288cf4245773522" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f562d063d33995ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597048114378,
+        "stop" : 1597048141690,
+        "duration" : 27312
+      }
+    } ]
+  },
+  "7616b1549addb2c11c1b7357bd2f2333" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e05e8456e85e089b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597048188045,
+        "stop" : 1597048191555,
+        "duration" : 3510
+      }
+    } ]
+  },
+  "6d7f9fd71a9d95d517c129f4d953a4ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2227060f1f173cab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597047998902,
+        "stop" : 1597048039344,
+        "duration" : 40442
+      }
+    } ]
+  },
+  "a5ae069fca9c0dcd20865473e5127fae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9384196780fa8b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597048172582,
+        "stop" : 1597048178523,
+        "duration" : 5941
+      }
+    } ]
+  },
+  "d042d2bf2d8c86c4b308af85386cb4e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "421459b3ee7f2d6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597047753805,
+        "stop" : 1597047753843,
+        "duration" : 38
+      }
+    } ]
+  },
+  "85a6b2cb1a2ec78e137c09f95fd8afdd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba04231d17025f96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597047776208,
+        "stop" : 1597047778440,
+        "duration" : 2232
+      }
+    } ]
+  }
+}

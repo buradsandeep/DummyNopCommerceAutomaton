@@ -1,0 +1,12 @@
+1. To Create json reports, go to command prompt and the directory where all the test cases are located.
+    pytest --alluredir locationofjsonreports
+    For this project, we used below command
+    pytest --alluredir ../json_Reports
+
+2. Convert json file to Htmlfile
+    First move to the folder where you want to generate the html report.
+    syntax for the command
+    allure generate locationofjsonreports --clean
+    For this project we used below command
+    allure generate ../json_Reports --clean
+

@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "6cf26df8f2f9df8e50c3a66c8c4b2012",
+    "name" : "Test_Suites",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 16
+    }
+  } ]
+}

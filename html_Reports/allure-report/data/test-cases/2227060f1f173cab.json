@@ -1,0 +1,56 @@
+{
+  "uid" : "2227060f1f173cab",
+  "name" : "test02_invalid_email",
+  "fullName" : "Test_Suites.Test_Search_Customer.Test_Search_Customer#test02_invalid_email",
+  "historyId" : "6d7f9fd71a9d95d517c129f4d953a4ca",
+  "time" : {
+    "start" : 1597047998902,
+    "stop" : 1597048039344,
+    "duration" : 40442
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Test_Suites"
+  }, {
+    "name" : "suite",
+    "value" : "Test_Search_Customer"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Search_Customer"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-99QPJNQ"
+  }, {
+    "name" : "thread",
+    "value" : "7884-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Suites.Test_Search_Customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2227060f1f173cab.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,86 @@
+{
+  "uid" : "8a2e168aca658933",
+  "name" : "test03_invalid_password",
+  "fullName" : "Test_Suites.Test_Admin_Login.Test_Admin_Login#test03_invalid_password",
+  "historyId" : "d4dba02ed10404ba044411dd306df89c",
+  "time" : {
+    "start" : 1597047809481,
+    "stop" : 1597047814066,
+    "duration" : 4585
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "initiate",
+    "time" : {
+      "start" : 1597047783096,
+      "stop" : 1597047809479,
+      "duration" : 26383
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "initiate::0",
+    "time" : {
+      "start" : 1597047814070,
+      "stop" : 1597047829967,
+      "duration" : 15897
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Test_Suites"
+  }, {
+    "name" : "suite",
+    "value" : "Test_Admin_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Admin_Login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-99QPJNQ"
+  }, {
+    "name" : "thread",
+    "value" : "7884-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Suites.Test_Admin_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a2e168aca658933.json",
+  "parameterValues" : [ ]
+}
